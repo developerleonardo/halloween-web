@@ -1,0 +1,15 @@
+:root {
+    --background: #050505;
+    --white: #ededed;
+    --primary: #EF6537;
+    --secondary: #FF5104;
+    --tertiary: #8A6BA1;
+    --xxl: 64px;
+    --lg: 18px;
+    --md: 16px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
