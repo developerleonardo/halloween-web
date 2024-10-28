@@ -1,0 +1,53 @@
+.dialog {
+    z-index: 2;
+    height: 590px;
+    width: 360px;
+    background: var(--tertiary);
+    align-content: center;
+}
+
+.overlay {
+    background: rgba(0, 0, 0, 0.2);
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.dialog form {
+    margin-inline: auto;
+    width: 80%;
+    height: 95%;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.dialog form h3, h4 {
+    color: var(--primary);
+    text-wrap: balance;
+}
+
+.dialog form ol {
+    text-align: left;
+}
+.topImage {
+    position: absolute;
+    left: -40px;
+    top: -30px;
+    width: 80px;
+    height: 80px;
+}
+.bottomImage {
+    position: absolute;
+    bottom: -30px;
+    right: -40px;
+    width: 80px;
+    height: 120px;
+}

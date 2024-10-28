@@ -1,6 +1,7 @@
 :root {
     --background: #050505;
     --white: #ededed;
+    --gray: #484848;
     --primary: #EF6537;
     --secondary: #FF5104;
     --tertiary: #8A6BA1;
@@ -12,4 +13,5 @@
 body {
     margin: 0;
     padding: 0;
+    background: var(--background);
 }

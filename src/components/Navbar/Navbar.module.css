@@ -1,0 +1,59 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px 32px;
+    height: 60px;
+    position: fixed;
+    background: var(--background);
+    z-index: 10;
+    position: relative;
+}
+.navbar ul {
+    list-style: none;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: var(--white);
+}
+.active {
+    color: var(--primary) !important;
+}
+.navbar ul:nth-child(1) {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    font-family: "Metal Mania", system-ui;
+}
+.navbar ul:nth-child(1) li a {
+    font-size: var(--lg);
+    color: var(--primary);
+    font-weight: bold;
+}
+.navbar ul:nth-child(1) li a img {
+    margin-right: 16px;
+    width: 40px;
+    align-self: center;
+    transform: translateY(5px);
+}
+.navbar ul:nth-child(2) {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    gap: 10px;
+    width: 50%;
+}
+.navbar ul:nth-child(2) li:last-child a {
+    color: var(--primary);
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 20px;
+}
+.navbar ul:nth-child(2) li a {
+    font-weight: 700px;
+}
+.navbar ul:nth-child(2) li a:hover {
+    color: var(--primary);
+}
