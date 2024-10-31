@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import styles from './Home.module.css'
 
 const Home = () => {
@@ -11,7 +12,9 @@ const Home = () => {
         <p>Sábado 26 de octubre del 2024 en la calle principal</p>
         <h1>NOCHE DE ESPECTROS Y RITMOS</h1>
         <p>Únete a la fiesta de Halloween mäs espeluznante de la ciudad</p>
-        <button>Comprar ticket</button>
+        <Link to={'/compra-ticket'}>
+          <button>Comprar ticket</button>
+        </Link>
       </div>
     </div>
   )

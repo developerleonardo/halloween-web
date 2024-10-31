@@ -1,0 +1,22 @@
+.winnerCard {
+    width: 230px;
+    height: 240PX;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    box-sizing: border-box;
+    gap: 4px;
+}
+.winnerCard img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
+.winnerCard p {
+    margin: 0;
+    color: var(--white);
+}
+.winnerCard p:nth-child(2) {
+    color: var(--primary);
+}

@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.pexels.com/photos/5601142/pexels-photo-5601142.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Mariana Cardona",
+        "category": "women",
+        "year": "2024"
+    },
+    {
+        "id": 2,
+        "image": "https://images.pexels.com/photos/7705975/pexels-photo-7705975.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "José Pérez",
+        "category": "men",
+        "year": "2024"
+    },
+    {
+        "id": 3,
+        "image": "https://images.pexels.com/photos/5634812/pexels-photo-5634812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Ana López",
+        "category": "women",
+        "year": "2023"
+    },
+    {
+        "id": 4,
+        "image": "https://images.pexels.com/photos/5427369/pexels-photo-5427369.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Miguel García",
+        "category": "men",
+        "year": "2023"
+    },
+    {
+        "id": 5,
+        "image": "https://images.pexels.com/photos/29072114/pexels-photo-29072114/free-photo-of-maquillaje-inspirado-en-el-retrato-creativo-de-frankenstein.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Laura González",
+        "category": "women",
+        "year": "2022"
+    },
+    {
+        "id": 6,
+        "image": "https://images.pexels.com/photos/5600240/pexels-photo-5600240.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Carlos Ramírez",
+        "category": "men",
+        "year": "2022"
+    },
+    {
+        "id": 7,
+        "image": "https://images.pexels.com/photos/607818/pexels-photo-607818.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Isabel Martínez",
+        "category": "women",
+        "year": "2021"
+    },
+    {
+        "id": 8,
+        "image": "https://images.pexels.com/photos/5600181/pexels-photo-5600181.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Juan Torres",
+        "category": "men",
+        "year": "2021"
+    },
+    {
+        "id": 9,
+        "image": "https://images.pexels.com/photos/29030545/pexels-photo-29030545/free-photo-of-persona-disfrazada-de-sombrerero-loco-en-una-fiesta-nocturna.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Camila Hernández",
+        "category": "women",
+        "year": "2020"
+    },
+    {
+        "id": 10,
+        "image": "https://images.pexels.com/photos/15955652/pexels-photo-15955652/free-photo-of-hombre-maquillaje-disfraz-traje.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Luis Ortiz",
+        "category": "men",
+        "year": "2020"
+    },
+    {
+        "id": 11,
+        "image": "https://images.pexels.com/photos/5600491/pexels-photo-5600491.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Fernanda Mendoza",
+        "category": "women",
+        "year": "2019"
+    },
+    {
+        "id": 12,
+        "image": "https://images.pexels.com/photos/29103651/pexels-photo-29103651/free-photo-of-intenso-personaje-de-cosplay-en-un-entorno-al-aire-libre.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Andrés Castillo",
+        "category": "men",
+        "year": "2019"
+    },
+    {
+        "id": 13,
+        "image": "https://images.pexels.com/photos/19094906/pexels-photo-19094906/free-photo-of-gente-mujer-nina-mono.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Patricia Navarro",
+        "category": "women",
+        "year": "2018"
+    },
+    {
+        "id": 14,
+        "image": "https://images.pexels.com/photos/5427365/pexels-photo-5427365.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Sergio Ríos",
+        "category": "men",
+        "year": "2018"
+    },
+    {
+        "id": 15,
+        "image": "https://images.pexels.com/photos/5600005/pexels-photo-5600005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Lucía Cruz",
+        "category": "women",
+        "year": "2017"
+    },
+    {
+        "id": 16,
+        "image": "https://images.pexels.com/photos/18771794/pexels-photo-18771794/free-photo-of-disfraz-de-hombre-con-mascara-para-halloween.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Diego Vázquez",
+        "category": "men",
+        "year": "2017"
+    },
+    {
+        "id": 17,
+        "image": "https://images.pexels.com/photos/5659370/pexels-photo-5659370.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Valentina Flores",
+        "category": "women",
+        "year": "2016"
+    },
+    {
+        "id": 18,
+        "image": "https://images.pexels.com/photos/5600182/pexels-photo-5600182.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Javier Rivera",
+        "category": "men",
+        "year": "2016"
+    },
+    {
+        "id": 19,
+        "image": "https://images.pexels.com/photos/9971190/pexels-photo-9971190.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Andrea Guerrero",
+        "category": "women",
+        "year": "2015"
+    },
+    {
+        "id": 20,
+        "image": "https://images.pexels.com/photos/28199340/pexels-photo-28199340/free-photo-of-catrin-rev.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Rodrigo Santos",
+        "category": "men",
+        "year": "2015"
+    },
+    {
+        "id": 21,
+        "image": "https://images.pexels.com/photos/5477427/pexels-photo-5477427.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Daniela Cabrera",
+        "category": "women",
+        "year": "2014"
+    },
+    {
+        "id": 22,
+        "image": "https://images.pexels.com/photos/10119812/pexels-photo-10119812.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Pedro Silva",
+        "category": "men",
+        "year": "2014"
+    },
+    {
+        "id": 23,
+        "image": "https://images.pexels.com/photos/13953370/pexels-photo-13953370.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Carolina Espinoza",
+        "category": "women",
+        "year": "2013"
+    },
+    {
+        "id": 24,
+        "image": "https://images.pexels.com/photos/7615184/pexels-photo-7615184.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Hugo Fernández",
+        "category": "men",
+        "year": "2013"
+    },
+    {
+        "id": 25,
+        "image": "https://images.pexels.com/photos/14266247/pexels-photo-14266247.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Natalia Ruiz",
+        "category": "women",
+        "year": "2012"
+    },
+    {
+        "id": 26,
+        "image": "https://images.pexels.com/photos/7706304/pexels-photo-7706304.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Manuel Lara",
+        "category": "men",
+        "year": "2012"
+    },
+    {
+        "id": 27,
+        "image": "https://images.pexels.com/photos/14159913/pexels-photo-14159913.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Rosa Meza",
+        "category": "women",
+        "year": "2011"
+    },
+    {
+        "id": 28,
+        "image": "https://images.pexels.com/photos/5435561/pexels-photo-5435561.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Ricardo Aguirre",
+        "category": "men",
+        "year": "2011"
+    },
+    {
+        "id": 29,
+        "image": "https://images.pexels.com/photos/18971395/pexels-photo-18971395/free-photo-of-festivo-modelo-estampado-retrato.jpeg?auto=compress&cs=tinysrgb&w=300",
+        "name": "Paula Vega",
+        "category": "women",
+        "year": "2010"
+    },
+    {
+        "id": 30,
+        "image": "https://images.pexels.com/photos/1839564/pexels-photo-1839564.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "name": "Pablo Moreno",
+        "category": "men",
+        "year": "2010"
+    }
+]

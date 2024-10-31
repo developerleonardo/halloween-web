@@ -8,7 +8,6 @@ import { BuyTicketsPage } from '../BuyTicketsPage'
 import { NotFound } from '../NotFound'
 import { Navbar } from '../../components/Navbar'
 import { Layout } from '../../components/Layout'
-import { useState } from 'react'
 
 const AppRoutes = () => {
   let routes = useRoutes([
